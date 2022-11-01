@@ -1,9 +1,16 @@
 * Introduction
 
 This will be a 16 hour lecture course on the theory and applciations
-of deep learning.  All lectures will be on Teams on the [Deep
-learning channel].  Videos of the lectures will be available on that
+of deep learning.  All lectures will be on Teams on the
+[[https://teams.microsoft.com/l/channel/19%3aa6dd62a4f91e4a62b02d12287513a8e5%40thread.tacv2/Deep%2520Learning%25202022?groupId=dc32d844-7363-4ffe-9d88-914f976d5318&tenantId=49a50445-bdfa-4b79-ade3-547b4f3986e9][Deep learning channel]].  Videos of the lectures will be available on that
 channel, normally the same day as the lecture.
+
+** Consent for recordings
+
+Live lectures will be recorded, and we assume that if you have your
+camera or microphone on, then you consent to being recorded.  If you
+wish to revoke your consent, please contact us and we will need to
+edit you out of the recording.
 
 * Lectures
 
@@ -14,31 +21,31 @@ channel, normally the same day as the lecture.
 
 ** Lecture 03, 04
 
-<2022-11-07 Mon 10:00-12:00>
+<2022-11-10 Thu 10:00-12:00>
 
 ** Lecture 05, 06
 
-<2022-11-07 Mon 10:00-12:00>
+<2022-11-14 Mon 10:00-12:00>
 
 ** Lecture 07, 08
 
-<2022-11-07 Mon 10:00-12:00>
+<2022-11-17 Thu 10:00-12:00>
 
 ** Lecture 09, 10
 
-<2022-11-07 Mon 10:00-12:00>
+<2022-11-21 Mon 10:00-12:00>
 
 ** Lecture 11, 12
 
-<2022-11-07 Mon 10:00-12:00>
+<2022-11-24 Thu 10:00-12:00>
 
 ** Lecture 13, 14
 
-<2022-11-07 Mon 10:00-12:00>
+<2022-11-28 Mon 10:00-12:00>
 
 ** Lecture 15, 16
 
-<2022-11-07 Mon 10:00-12:00>
+<2022-12-01 Thu 10:00-12:00>
 
 * Reading
 
