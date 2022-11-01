@@ -1,0 +1,52 @@
+* Introduction
+
+This will be a 16 hour lecture course on the theory and applciations
+of deep learning.  All lectures will be on Teams on the [Deep
+learning channel].  Videos of the lectures will be available on that
+channel, normally the same day as the lecture.
+
+* Lectures
+
+** Lecture 01, 02
+
+<2022-11-07 Mon 10:00-12:00>
+
+
+** Lecture 03, 04
+
+<2022-11-07 Mon 10:00-12:00>
+
+** Lecture 05, 06
+
+<2022-11-07 Mon 10:00-12:00>
+
+** Lecture 07, 08
+
+<2022-11-07 Mon 10:00-12:00>
+
+** Lecture 09, 10
+
+<2022-11-07 Mon 10:00-12:00>
+
+** Lecture 11, 12
+
+<2022-11-07 Mon 10:00-12:00>
+
+** Lecture 13, 14
+
+<2022-11-07 Mon 10:00-12:00>
+
+** Lecture 15, 16
+
+<2022-11-07 Mon 10:00-12:00>
+
+* Reading
+
+Most of the lectures will mention key papers to read.  A good
+introductory text is [AI Engines: mathematics of deep learning]() by
+Dr James V Stone.
+
+* Assignment
+
+There will be one assignment set at the end of term, and due in
+January 2023.
