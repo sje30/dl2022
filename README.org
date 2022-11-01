@@ -43,7 +43,7 @@ channel, normally the same day as the lecture.
 * Reading
 
 Most of the lectures will mention key papers to read.  A good
-introductory text is [AI Engines: mathematics of deep learning]() by
+introductory text is [[https://jamesstone.sites.sheffield.ac.uk/books/artificial-intelligence-engines][AI Engines: mathematics of deep learning]] by
 Dr James V Stone.
 
 * Assignment
