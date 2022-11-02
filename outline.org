@@ -1,0 +1,36 @@
+Working plan for outline.  Each topic is *roughly* one lecture, but
+some will be longer, some will be shorter.  Best not to rigidly
+constrain them to be discrete lectures.
+
+1. Introduction / overview  / basics of statistics
+
+2. Background neuro 
+
+3. Hopfield networks, assoc memory
+
+4. Perceptrons / linear regression
+
+5. Multi-layer perceptrons / XOR / logistic regression
+
+6. Gradient descent math.  Error functions.
+
+7. Key applications of backprop
+
+8. Importannce of feature selections / encodings (e.g. word2vec)
+
+9. Dimensionality reduction techniques
+
+10. Building up the generic layered framework computationally.
+
+11. Flux/Pytorch framework
+
+12. Transformers
+
+13. GAN
+
+14. Graph neural networks
+
+15. State of the art (Deep fold etc).  Conclusions    
+
+   
+   
