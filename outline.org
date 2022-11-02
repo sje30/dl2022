@@ -14,7 +14,7 @@ constrain them to be discrete lectures.
 
 6. Gradient descent math.  Error functions.
 
-7. Key applications of backprop
+7. Key applications of backprop.  Convolutional layers/Autoencoders.
 
 8. Importannce of feature selections / encodings (e.g. word2vec)
 
