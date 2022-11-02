@@ -22,7 +22,7 @@ constrain them to be discrete lectures.
 
 10. Building up the generic layered framework computationally.
 
-11. Flux/Pytorch framework
+11. Flux/Pytorch framework ---------------------------------
 
 12. Transformers
 
