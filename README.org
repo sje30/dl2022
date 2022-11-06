@@ -18,6 +18,9 @@ edit you out of the recording.
 
 <2022-11-07 Mon 10:00-12:00>
 
+[[slides/intro.pdf][Introduction]]
+
+[[slides/neuro101.pdf][Neuro 101]]
 
 ** Lecture 03, 04
 
