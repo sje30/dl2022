@@ -26,6 +26,11 @@ edit you out of the recording.
 
 <2022-11-10 Thu 10:00-12:00>
 
+[[slides/perceptron.pdf][Perceptron]]
+
+[[slides/backprop.pdf][Back propagation]]  [[slides/backprop-handout.pdf][extra handout]]
+
+
 ** Lecture 05, 06
 
 <2022-11-14 Mon 10:00-12:00>
