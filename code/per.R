@@ -29,7 +29,7 @@ wts = c(1, 1, 1.5)
 plotdata()
 
 
-for (iteration in 1:100) {
+for (epoch in 1:100) {
   order = sample(ninputs);
   error = 0;
   for (i in order) {
@@ -41,7 +41,7 @@ for (iteration in 1:100) {
     dw = epsilon * ( t - y ) * x
     wts = wts + dw;
   }
-  title =sprintf('Iteration %d error %.3f\n', iteration, error)
+  title =sprintf('epoch %d error %.3f\n', epoch, error)
   plotdata()
   title(main=title)
   Sys.sleep(0.1)
