@@ -29,6 +29,7 @@ edit you out of the recording.
 [[slides/perceptron.pdf][Perceptron]]
 
 [[slides/backprop.pdf][Back propagation]]
+
 [[slides/backprop-handout.pdf][extra handout]]
 
 
