@@ -37,6 +37,10 @@ edit you out of the recording.
 
 <2022-11-14 Mon 10:00-12:00>
 
+Back propagation continued; derivation.
+
+[[slides/dimred.pdf][Dimensionality reduction]]
+
 ** Lecture 07, 08
 
 <2022-11-17 Thu 10:00-12:00>
