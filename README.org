@@ -39,11 +39,14 @@ edit you out of the recording.
 
 Back propagation continued; derivation.
 
-[[slides/dimred.pdf][Dimensionality reduction]]
-
 ** Lecture 07, 08
 
 <2022-11-17 Thu 10:00-12:00>
+
+[[slides/dimred.pdf][Dimensionality reduction]]
+
+[[slides/tips.pdf][Tips and tricks]]
+
 
 ** Lecture 09, 10
 
