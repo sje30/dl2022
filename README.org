@@ -52,9 +52,21 @@ Back propagation continued; derivation.
 
 <2022-11-21 Mon 10:00-12:00>
 
+
+Complete autograd
+
+[[slides/images.pdf][Images]]
+
+[[slides/sequences.pdf][Sequences]]
+
+
 ** Lecture 11, 12
 
 <2022-11-24 Thu 10:00-12:00>
+
+[[slides/sequences.pdf][Sequences]]
+
+[[slides/hopfield.pdf][Hopfield]]
 
 ** Lecture 13, 14
 
