@@ -30,8 +30,34 @@ promote_rule(::Type{D}, ::Type{<:Number}) = D
 
 Base.show(io::IO,x::D) = print(io,x.f[1]," + ",x.f[2]," ϵ")
 
+
+"""
+Testing forward mode differentiation.
+
+With E below, we would like to evaluate ∂E/∂x and ∂E/∂y.  To do this
+in the forward mode, we have to evaluate E twice.
+
+In the first case, we want the deriv with respect to x, so the ε term
+for x will be ∂x/∂x=1 and the ε term for y will be ∂y/∂x=0.
+
+In the second case, we want the deriv with respect to x, so the ε term
+for x will be ∂x/∂y=0 and the ε term for y will be ∂y/∂y=1.
+
+We will evaluate E at the point (x=1,y=2).  We can calculate the
+expected value of E, ∂E/∂x, and ∂E/∂y simply in this example:
+
+ E    = x*y - 3x +x^2 - y^2 = 2 - 3 + 1 - 4 = -4
+∂E/∂x =   y - 3  +2x        = 2 - 3 + 2     =  1
+∂E/∂y = x             - 2y  = 1         -4  = -3     
+"""
+
+
+
+
 """ Let E be an error fuction given two parameters x and y"""
-E(x, y) = x*y - 3x +x^2 - y^2
+
+E(x, y)
+= x*y - 3x +x^2 - y^2
 
 x = D( (1.0, 1.0) )
 y = D( (2.0, 0.0) )
