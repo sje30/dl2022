@@ -72,9 +72,13 @@ Complete autograd
 
 <2022-11-28 Mon 10:00-12:00>
 
+<https://nick-gale.github.io/2022_Deep_Learning_CamBio/>   Flux and GAN
+
 ** Lecture 15, 16
 
 <2022-12-01 Thu 10:00-12:00>
+
+<https://nick-gale.github.io/2022_Deep_Learning_CamBio/>   Transformers and Graphs
 
 * Reading
 
