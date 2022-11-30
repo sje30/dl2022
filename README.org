@@ -64,9 +64,10 @@ Complete autograd
 
 <2022-11-24 Thu 10:00-12:00>
 
-[[slides/sequences.pdf][Sequences]]
+[[slides/sequences.pdf][Sequences]]  (2nd half cancelled due to strike)
 
-[[slides/hopfield.pdf][Hopfield]]
+[[slides/hopfield.pdf][Hopfield]] (cancelled due to strike)
+
 
 ** Lecture 13, 14
 
