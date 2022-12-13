@@ -89,5 +89,6 @@ Dr James V Stone.
 
 * Assignment
 
-There will be one assignment set at the end of term, and due in
-January 2023.
+
+[Assignment one (draft)](dla1_2022.pdf).
+
